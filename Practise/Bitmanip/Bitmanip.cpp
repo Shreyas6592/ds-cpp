@@ -25,8 +25,7 @@ public:
         }
         *arr = num;
 
-        //cout<<(unsigned)arr[0]<<" "<<(unsigned)arr[1]<<" "<<(unsigned)arr[2]<<" "<<(unsigned)arr[3]<<endl;
-        //bitset<32> b(num);
+        //bitset<32> b(num);//Only for test
         //cout<<b[0]<<endl;
     } 
 
@@ -65,7 +64,8 @@ public:
 // Driver prog 
 int main() 
 { 
-    BitSet_ B(32,17); 
-    B.BitSet_P(0);
+    BitSet_ B(32,17); //Constructor shall be called and will set create a char array for required bytes(here 32 bits, hence 4 byte)
+                      //The second parameter is the number that has to be stored at that location  
+    B.BitSet_P(0);    //BitSet_P shall be used to access the bit at location(to be given as parameter)
     return 0; 
 } 
