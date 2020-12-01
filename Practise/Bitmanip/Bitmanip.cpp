@@ -1,5 +1,4 @@
-// C++ program to convert a decimal num
-// to binary number and store in a data struct of given size
+// C++ program to replicate bitset
   
 #include <iostream> 
 #include <limits.h>
