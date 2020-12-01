@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/GIT/MyGitRepo/ds-algo-cpp/Common/Fibonacci/fibonacci.c
+stdio.h
+/mnt/c/GIT/MyGitRepo/ds-algo-cpp/Common/Fibonacci/stdio.h
+

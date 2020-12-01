@@ -1,0 +1,3 @@
+/mnt/c/Git/MyGitRepo/ds-algo-cpp/sorting/selection/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Git/MyGitRepo/ds-algo-cpp/sorting/selection/build/CMakeFiles/selection.dir
+/mnt/c/Git/MyGitRepo/ds-algo-cpp/sorting/selection/build/CMakeFiles/edit_cache.dir

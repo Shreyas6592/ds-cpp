@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/selection.dir/selection.cpp.o  -o selection 

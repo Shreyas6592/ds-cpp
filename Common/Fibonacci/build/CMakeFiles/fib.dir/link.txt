@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/fib.dir/fibonacci.c.o  -o fib 
